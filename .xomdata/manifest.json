@@ -16,5 +16,8 @@
   "practice/sql/medium/medium-case-110/solution.sql": "603041514769da2a37bfaab4ad4787b93764effb25d8278ee606b3a9b393628a",
   "practice/sql/medium/medium-case-124/solution.sql": "e0fe0502079a975b279a333ddc6f405128cb95ec5060d31f30a33ffcfbfe182a",
   "practice/sql/medium/medium-case-160/solution.sql": "c505b70def0ecb53c7acfe05cfd0426af928edabaf4fa621e82703ad98413b59",
-  "practice/sql/medium/medium-join-001/solution.sql": "acc143c27550aec5da6265befac0ea6f38583a627bf5e3cdb71117252550ce73"
+  "practice/sql/medium/medium-join-001/solution.sql": "acc143c27550aec5da6265befac0ea6f38583a627bf5e3cdb71117252550ce73",
+  "practice/sql/easy/easy-min-001/solution.sql": "9037952262728a7b184508359520d3eda8c3673614a664e4ae101d36af161706",
+  "practice/sql/easy/easy-not-001/solution.sql": "40844a17b4dcd30369a0debcdb8083ecace8da956c2f9d629f790a054f9eed58",
+  "practice/sql/easy/easy-notlike-001/solution.sql": "c63d88908571c29b435213447e32080b549634646955d8b895a41d3dffaec6a2"
 }
