@@ -24,5 +24,6 @@
   "practice/sql/medium/medium-denserank-003/solution.sql": "4e6ba386d9e5ad564d569365b88a1f86f2f5b0feadd0b7152eb450cfddbdba43",
   "practice/sql/medium/medium-firstval-001/solution.sql": "dcd9327fea2a069451993f1c1ffe71c4a7fe7ce3e0ec9e839621d0829fb4137f",
   "practice/sql/medium/medium-leftjoin-031/solution.sql": "8dd1a8d2a204c9aad8fe4e7a0355dcfe6dfc46178ee11a041cddd86371a2de5b",
-  "practice/sql/medium/medium-leftjoin-096/solution.sql": "ab0e63fee1c14e3b3289b6976c6764ed00f647c5c2e06f41e8dea514ab661487"
+  "practice/sql/medium/medium-leftjoin-096/solution.sql": "ab0e63fee1c14e3b3289b6976c6764ed00f647c5c2e06f41e8dea514ab661487",
+  "practice/sql/medium/medium-frequency-006/solution.sql": "294fed8b375738a95a1b449ea5c5a9cc702ece48b5e8017da2cf27d0986f94e0"
 }

@@ -4,14 +4,15 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**26** problems solved on [Xom Data](https://xomdata.com/practice).
+**27** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| SQL | 16 | 10 | 0 | 0 | 26 |
+| SQL | 16 | 11 | 0 | 0 | 27 |
 
 **Recently solved**
 
+- [medium-frequency-006](https://xomdata.com/practice/medium-frequency-006) · Medium · 2026-08-23
 - [medium-leftjoin-096](https://xomdata.com/practice/medium-leftjoin-096) · Medium · 2026-08-22
 - [medium-leftjoin-031](https://xomdata.com/practice/medium-leftjoin-031) · Medium · 2026-08-22
 - [medium-firstval-001](https://xomdata.com/practice/medium-firstval-001) · Medium · 2026-08-21
@@ -21,9 +22,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [easy-not-001](https://xomdata.com/practice/easy-not-001) · Easy · 2026-08-20
 - [easy-min-001](https://xomdata.com/practice/easy-min-001) · Easy · 2026-08-20
 - [medium-join-001](https://xomdata.com/practice/medium-join-001) · Medium · 2026-08-20
-- [medium-case-160](https://xomdata.com/practice/medium-case-160) · Medium · 2026-08-19
 
-_Synced 26 solutions · last update 2026-08-22_
+_Synced 27 solutions · last update 2026-08-24_
 
 <!-- xomdata:stats:end -->
 
