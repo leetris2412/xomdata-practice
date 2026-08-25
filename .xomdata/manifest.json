@@ -25,5 +25,15 @@
   "practice/sql/medium/medium-firstval-001/solution.sql": "dcd9327fea2a069451993f1c1ffe71c4a7fe7ce3e0ec9e839621d0829fb4137f",
   "practice/sql/medium/medium-leftjoin-031/solution.sql": "8dd1a8d2a204c9aad8fe4e7a0355dcfe6dfc46178ee11a041cddd86371a2de5b",
   "practice/sql/medium/medium-leftjoin-096/solution.sql": "ab0e63fee1c14e3b3289b6976c6764ed00f647c5c2e06f41e8dea514ab661487",
-  "practice/sql/medium/medium-frequency-006/solution.sql": "294fed8b375738a95a1b449ea5c5a9cc702ece48b5e8017da2cf27d0986f94e0"
+  "practice/sql/medium/medium-frequency-006/solution.sql": "294fed8b375738a95a1b449ea5c5a9cc702ece48b5e8017da2cf27d0986f94e0",
+  "practice/sql/easy/easy-like-001/solution.sql": "7ea0aef634304881fdf7d61eb2e229155e2c0001877a20df81508f38680db1fe",
+  "practice/sql/easy/easy-limit-001/solution.sql": "cd64a914cc80b0b421ed35f9d5ae4a17af2a0dce5111b9245e79957fc6caaef4",
+  "practice/sql/easy/easy-limit-002/solution.sql": "d526ede3a21efb258ccaf5ad46980c13c44e2efad689685e2d8b0326bcca60dc",
+  "practice/sql/easy/easy-limit-004/solution.sql": "91dcfa1e25a64670570b23fe8876e6897359927392ce0bd63bf910b119a47ee2",
+  "practice/sql/easy/easy-max-001/solution.sql": "1ad2e7f66ff8fe0be3bc0927919c90458ac9e4e12b272f59f88bda3d68229710",
+  "practice/sql/easy/easy-minmax-001/solution.sql": "7fe885e4236f337b5611518053e2c27e858064729539364b5a884f99e5814cb4",
+  "practice/sql/easy/easy-orderby-001/solution.sql": "e9c74aeebbde66b3c8e888abcb786c8941b095647b784f4b6a1b9605b9b12cd0",
+  "practice/sql/easy/easy-distinct-006/solution.sql": "932bd93d78b5ac8a273397d7615935fc6d03c59fc03f952bde882b6ca482a1bc",
+  "practice/sql/easy/easy-count-006/solution.sql": "89adc4e9c4c94c0ad07274d580679a3499b5596c96a8c69cf204d18dc497fcde",
+  "practice/sql/easy/easy-avg-001/solution.sql": "f99607ff3ea0ca5acf38573c21b828c774413b8c86d8c66c9d0b580bf37d8dcd"
 }
