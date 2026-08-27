@@ -4,26 +4,26 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**37** problems solved on [Xom Data](https://xomdata.com/practice).
+**44** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| SQL | 26 | 11 | 0 | 0 | 37 |
+| SQL | 33 | 11 | 0 | 0 | 44 |
 
 **Recently solved**
 
+- [easy-groupby-002](https://xomdata.com/practice/easy-groupby-002) · Easy · 2026-08-27
+- [easy-groupby-001](https://xomdata.com/practice/easy-groupby-001) · Easy · 2026-08-27
+- [easy-distinct-008](https://xomdata.com/practice/easy-distinct-008) · Easy · 2026-08-27
+- [easy-count-011](https://xomdata.com/practice/easy-count-011) · Easy · 2026-08-27
+- [easy-count-010](https://xomdata.com/practice/easy-count-010) · Easy · 2026-08-27
+- [easy-concat-001](https://xomdata.com/practice/easy-concat-001) · Easy · 2026-08-26
+- [easy-coalesce-001](https://xomdata.com/practice/easy-coalesce-001) · Easy · 2026-08-26
 - [easy-avg-001](https://xomdata.com/practice/easy-avg-001) · Easy · 2026-08-25
 - [easy-count-006](https://xomdata.com/practice/easy-count-006) · Easy · 2026-08-25
 - [easy-distinct-006](https://xomdata.com/practice/easy-distinct-006) · Easy · 2026-08-25
-- [easy-orderby-001](https://xomdata.com/practice/easy-orderby-001) · Easy · 2026-08-25
-- [easy-minmax-001](https://xomdata.com/practice/easy-minmax-001) · Easy · 2026-08-25
-- [easy-max-001](https://xomdata.com/practice/easy-max-001) · Easy · 2026-08-25
-- [easy-limit-004](https://xomdata.com/practice/easy-limit-004) · Easy · 2026-08-25
-- [easy-limit-002](https://xomdata.com/practice/easy-limit-002) · Easy · 2026-08-25
-- [easy-limit-001](https://xomdata.com/practice/easy-limit-001) · Easy · 2026-08-25
-- [easy-like-001](https://xomdata.com/practice/easy-like-001) · Easy · 2026-08-25
 
-_Synced 37 solutions · last update 2026-08-25_
+_Synced 44 solutions · last update 2026-08-27_
 
 <!-- xomdata:stats:end -->
 
