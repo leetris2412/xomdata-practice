@@ -4,14 +4,17 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**53** problems solved on [Xom Data](https://xomdata.com/practice).
+**56** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| SQL | 42 | 11 | 0 | 0 | 53 |
+| SQL | 44 | 12 | 0 | 0 | 56 |
 
 **Recently solved**
 
+- [medium-groupby-027](https://xomdata.com/practice/medium-groupby-027) · Medium · 2026-09-03
+- [easy-groupby-004](https://xomdata.com/practice/easy-groupby-004) · Easy · 2026-09-03
+- [easy-groupby-003](https://xomdata.com/practice/easy-groupby-003) · Easy · 2026-09-03
 - [easy-max-002](https://xomdata.com/practice/easy-max-002) · Easy · 2026-08-30
 - [easy-lower-001](https://xomdata.com/practice/easy-lower-001) · Easy · 2026-08-30
 - [easy-like-004](https://xomdata.com/practice/easy-like-004) · Easy · 2026-08-30
@@ -19,11 +22,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [easy-sum-005](https://xomdata.com/practice/easy-sum-005) · Easy · 2026-08-29
 - [easy-substr-001](https://xomdata.com/practice/easy-substr-001) · Easy · 2026-08-29
 - [easy-string-001](https://xomdata.com/practice/easy-string-001) · Easy · 2026-08-29
-- [easy-round-001](https://xomdata.com/practice/easy-round-001) · Easy · 2026-08-29
-- [easy-replace-001](https://xomdata.com/practice/easy-replace-001) · Easy · 2026-08-29
-- [easy-groupby-002](https://xomdata.com/practice/easy-groupby-002) · Easy · 2026-08-27
 
-_Synced 53 solutions · last update 2026-09-02_
+_Synced 56 solutions · last update 2026-09-03_
 
 <!-- xomdata:stats:end -->
 
