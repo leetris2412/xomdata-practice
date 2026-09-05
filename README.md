@@ -4,26 +4,26 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**56** problems solved on [Xom Data](https://xomdata.com/practice).
+**63** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| SQL | 44 | 12 | 0 | 0 | 56 |
+| SQL | 51 | 12 | 0 | 0 | 63 |
 
 **Recently solved**
 
+- [easy-isnull-003](https://xomdata.com/practice/easy-isnull-003) · Easy · 2026-09-05
+- [easy-in-002](https://xomdata.com/practice/easy-in-002) · Easy · 2026-09-05
+- [easy-in-001](https://xomdata.com/practice/easy-in-001) · Easy · 2026-09-05
+- [easy-join-005](https://xomdata.com/practice/easy-join-005) · Easy · 2026-09-05
+- [easy-join-004](https://xomdata.com/practice/easy-join-004) · Easy · 2026-09-05
+- [easy-join-003](https://xomdata.com/practice/easy-join-003) · Easy · 2026-09-05
+- [easy-where-023](https://xomdata.com/practice/easy-where-023) · Easy · 2026-09-05
 - [medium-groupby-027](https://xomdata.com/practice/medium-groupby-027) · Medium · 2026-09-03
 - [easy-groupby-004](https://xomdata.com/practice/easy-groupby-004) · Easy · 2026-09-03
 - [easy-groupby-003](https://xomdata.com/practice/easy-groupby-003) · Easy · 2026-09-03
-- [easy-max-002](https://xomdata.com/practice/easy-max-002) · Easy · 2026-08-30
-- [easy-lower-001](https://xomdata.com/practice/easy-lower-001) · Easy · 2026-08-30
-- [easy-like-004](https://xomdata.com/practice/easy-like-004) · Easy · 2026-08-30
-- [easy-like-003](https://xomdata.com/practice/easy-like-003) · Easy · 2026-08-30
-- [easy-sum-005](https://xomdata.com/practice/easy-sum-005) · Easy · 2026-08-29
-- [easy-substr-001](https://xomdata.com/practice/easy-substr-001) · Easy · 2026-08-29
-- [easy-string-001](https://xomdata.com/practice/easy-string-001) · Easy · 2026-08-29
 
-_Synced 56 solutions · last update 2026-09-03_
+_Synced 63 solutions · last update 2026-09-05_
 
 <!-- xomdata:stats:end -->
 
